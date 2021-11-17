@@ -5,7 +5,7 @@ Just plot confusion matrix with matplitlib.
 
 `pip install .`
 
-`pip install git+https://github.com/pandrii000/plot_confusion_matrix`
+`pip install git+https://github.com/pandrii000/plot-confusion-matrix`
 
 ## Usage
 
