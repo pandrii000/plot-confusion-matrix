@@ -1,2 +1,2 @@
-# plot_confusion_matrix
+# plot-confusion-matrix
 Just plot confusion matrix with matplitlib.
